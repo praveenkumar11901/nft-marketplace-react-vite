@@ -44,7 +44,6 @@ https://u.pcloud.link/publink/show?code=XZzDA55ZFFJ0tyAOfwuKRjNWz4igPVglGJu7
 - TypeScript
 - Vite
 - Tailwind CSS
-- Headless UI
 
 ### Development Tools
 
