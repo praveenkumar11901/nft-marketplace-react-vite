@@ -137,7 +137,7 @@ struct Marketplace has key {
 1. **Clone Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/praveenkumar11901/nft-marketplace-react-vite)
    cd aptos-nft-marketplace
    ```
 
