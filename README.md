@@ -150,13 +150,7 @@ struct Marketplace has key {
    npm install
    ```
 
-3. **Environment Configuration**
-
-   ```bash
-   cp .env.example .env
-   ```
-
-4. **Update Constants**
+3. **Update Constants**
 
    ```typescript
    // src/constants/Constants.ts
@@ -164,7 +158,7 @@ struct Marketplace has key {
    export const MODULE_NAME = "Marketplace";
    ```
 
-5. **Start Development Server**
+4. **Start Development Server**
    ```bash
    npm run dev
    ```
