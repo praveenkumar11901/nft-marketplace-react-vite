@@ -21,27 +21,14 @@ https://u.pcloud.link/publink/show?code=XZzDA55ZFFJ0tyAOfwuKRjNWz4igPVglGJu7
 
    - Browse available NFTs
    - Purchase NFTs using APT
-   - Filter NFTs by rarity
-   - View detailed NFT information
 
 3. **Creator Rewards**
 
    - Send APT rewards to NFT creators
-   - View creator statistics
-   - Track minting history
 
 4. **Wallet Integration**
    - Petra Wallet support
    - Secure transaction signing
-   - Account management
-
-### Technical Features
-
-- Responsive UI design
-- Real-time transaction feedback
-- Optimized image loading
-- Error handling and recovery
-- Mobile-friendly interface
 
 ## Technical Stack
 
