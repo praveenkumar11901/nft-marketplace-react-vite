@@ -2,6 +2,9 @@
 
 A decentralized NFT marketplace built on the Aptos blockchain that enables users to mint, buy, sell, transfer NFTs, and reward creators.
 
+# Discord Username : praveenkumar1
+# X Username : praveenkum59591
+
 ## Features
 
 ### Core Features
