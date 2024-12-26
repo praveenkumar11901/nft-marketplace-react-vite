@@ -1,0 +1,13 @@
+[package]
+name = "Marketplace"
+version = "0.1.0"
+
+[addresses]
+Marketplace = "0xc12c4f7340abf90a2c6ca838c4d058071f51639aa59320d95aef6d9aed9da710"
+aptos_framework = "0x1"
+primitives = "0xCAFE"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "main" }
+AptosStdlib = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-stdlib", rev = "main" }
+MoveStdlib = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/move-stdlib", rev = "main" }
