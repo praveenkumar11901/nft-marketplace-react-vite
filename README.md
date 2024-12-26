@@ -2,7 +2,11 @@
 
 A decentralized NFT marketplace built on the Aptos blockchain that enables users to mint, buy, sell, transfer NFTs, and reward creators.
 
-## Features
+# Discord Username : praveenkumar1
+# X Username : praveenkum59591
+
+# Video Demo
+https://u.pcloud.link/publink/show?code=XZzDA55ZFFJ0tyAOfwuKRjNWz4igPVglGJu7
 
 ### Core Features
 
@@ -17,27 +21,14 @@ A decentralized NFT marketplace built on the Aptos blockchain that enables users
 
    - Browse available NFTs
    - Purchase NFTs using APT
-   - Filter NFTs by rarity
-   - View detailed NFT information
 
 3. **Creator Rewards**
 
    - Send APT rewards to NFT creators
-   - View creator statistics
-   - Track minting history
 
 4. **Wallet Integration**
    - Petra Wallet support
    - Secure transaction signing
-   - Account management
-
-### Technical Features
-
-- Responsive UI design
-- Real-time transaction feedback
-- Optimized image loading
-- Error handling and recovery
-- Mobile-friendly interface
 
 ## Technical Stack
 
@@ -53,7 +44,6 @@ A decentralized NFT marketplace built on the Aptos blockchain that enables users
 - TypeScript
 - Vite
 - Tailwind CSS
-- Headless UI
 
 ### Development Tools
 
@@ -137,7 +127,7 @@ struct Marketplace has key {
 1. **Clone Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/praveenkumar11901/nft-marketplace-react-vite)
    cd aptos-nft-marketplace
    ```
 
@@ -147,13 +137,7 @@ struct Marketplace has key {
    npm install
    ```
 
-3. **Environment Configuration**
-
-   ```bash
-   cp .env.example .env
-   ```
-
-4. **Update Constants**
+3. **Update Constants**
 
    ```typescript
    // src/constants/Constants.ts
@@ -161,7 +145,7 @@ struct Marketplace has key {
    export const MODULE_NAME = "Marketplace";
    ```
 
-5. **Start Development Server**
+4. **Start Development Server**
    ```bash
    npm run dev
    ```
